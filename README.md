@@ -13,9 +13,7 @@ We provide a sample of crops taken from an open-source person re-id dataset. The
 
 **The data:** The directory contains 25000 crops of some unique people. You can download the dataset from this [link](https://drive.google.com/file/d/109SrSu-muQm1UwuiyYLZI6ps72PHlaZU/view?pli=1).
 
-
-## Deliverables
-Submit the following files:
+## Structure
 1. Folder **research**: It will have the experimentation/scratch codes. 
 2. Folder **inference**  
 	a.  **src**: final code to estimate the no. of unique persons in the image.  
@@ -23,30 +21,8 @@ Submit the following files:
 3. Folder **models**: This folder should contain your model files that could be visualised using Netron.
 4. **README**: listing the instructions that are required for running the notebook/python codes. 
 
-## FAQs
 
-**How long will this take?**  
-That is yours to commit. Just get back within 7 days from the time this repository is shared with you.
-
-**What language should I use?**  
-Whatever you want.
-
-**Can I use X?**  
-You can use whatever you want.
-
-**How should I solve it?**  
-There are many solutions to non-convex problems. We are seeking a deep learning engineer, so deep learning models are preferrable.
-
-Through this we want to understand the core skills and methods you are developing as a problem solver.
-
-**What should I deliver?**  
-Your code, results, and brief instructions on how to build and run your solution.
-
-**What is this again?**  
-This is a simulation of a project that you might execute. Our goal is that by collaborating on this repo we will both learn from experience.
-
-
-# Instructions to run the script
+## Instructions to run the script
 
 - clone the repository and cd into the project-sim-pavan/AssignReid (this will be your root directory)
 - Create a root directory and place all the images within the data folder
